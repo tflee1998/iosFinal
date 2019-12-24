@@ -13,6 +13,7 @@
 		43420EB023B2332000424568 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43420EAF23B2332000424568 /* Assets.xcassets */; };
 		43420EB323B2332000424568 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43420EB223B2332000424568 /* Preview Assets.xcassets */; };
 		43420EB623B2332000424568 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43420EB423B2332000424568 /* LaunchScreen.storyboard */; };
+		43420EBE23B233A900424568 /* teamData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43420EBD23B233A900424568 /* teamData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		43420EB223B2332000424568 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43420EB523B2332000424568 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43420EB723B2332000424568 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43420EBD23B233A900424568 /* teamData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teamData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				43420EB423B2332000424568 /* LaunchScreen.storyboard */,
 				43420EB723B2332000424568 /* Info.plist */,
 				43420EB123B2332000424568 /* Preview Content */,
+				43420EBD23B233A900424568 /* teamData.swift */,
 			);
 			path = iosFinal;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				43420EAA23B2331E00424568 /* AppDelegate.swift in Sources */,
 				43420EAC23B2331E00424568 /* SceneDelegate.swift in Sources */,
+				43420EBE23B233A900424568 /* teamData.swift in Sources */,
 				43420EAE23B2331E00424568 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
